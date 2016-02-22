@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Welcome to my humble space.]]></title>
+        <description><![CDATA[Welcome to my humble space.]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 22 Feb 2016 22:44:14 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Welcome to my site here on the web. Here I'll scare stories from my humble life; dancing, friends and family and of course some great stuff in between...]]></title>
+            <description><![CDATA[<article><h1>Welcome to my site here on the web. Here I'll scare stories from my humble life; dancing, friends and family and of course some great stuff in between...</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8cb77d92-4730-4cd2-a4f3-8d262d0e7700.png"></article>]]></description>
+            <link>undefinedwelcome-to-my-site-here-on-the-web-here-ill-scare-stories/index.html</link>
+            <guid isPermaLink="false">39b2ac68-48e8-4423-9629-775b68f4de40</guid>
+            <pubDate>Mon, 22 Feb 2016 22:44:04 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
