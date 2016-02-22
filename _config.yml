@@ -1,5 +1,8 @@
+name: Kenneth Endestad
+favicon: null
+layout_spectrum: 1
+typography_spectrum: 0.04915
 title: Kenneth.endestad.com
-purpose: []
 collections:
   - index:
       path: /
@@ -12,30 +15,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.2446809
-  brandStrength: 0.375
-  lightness: 0.7468085
   brandColors:
     - '#A690A4'
     - '#B68F9D'
     - '#C8ACAB'
     - '#FBB9BF'
     - '#E376B7'
+  brandStrength: 0.375
+  lightness: 0.5
+  saturation: 0.2446809
   rhythmicContrast: 0.5914894
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-name: Kenneth Endestad
-favicon: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0.04915
-layout_spectrum: 1
+purpose: []
