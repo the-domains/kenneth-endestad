@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Hi, I'm Kenneth!]]></title>
-        <description><![CDATA[Hi, I'm Kenneth!]]></description>
+        <title><![CDATA[Kenneth.endestad.com]]></title>
+        <description><![CDATA[Kenneth.endestad.com]]></description>
         <link>https://thegrid.ai/kenneth-endestad/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 22 Feb 2016 22:59:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Feb 2016 23:29:31 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kenneth-endestad/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Hi, I'm Kenneth! ]]></title>
             <description><![CDATA[<article><h1>Hi, I'm Kenneth! </h1><p>Welcome to my site created with #thegrid.io. Here I'll share stories from my humble life; dancing, friends and family, stories and maybe some geeky stuff...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4df81c5f7d01b2d0a12b94988a2426ab63136aa4.png"></article>]]></description>
             <link>urn:uuid:53a74d1c-b7cf-4372-b32d-10ae7cc508a7</link>
             <guid isPermaLink="false">39b2ac68-48e8-4423-9629-775b68f4de40</guid>
-            <pubDate>Mon, 22 Feb 2016 22:58:43 GMT</pubDate>
+            <pubDate>Mon, 22 Feb 2016 23:29:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
