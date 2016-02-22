@@ -4,13 +4,13 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'urn:uuid:53a74d1c-b7cf-4372-b32d-10ae7cc508a7'
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-02-22T22:55:47.658Z'
-dateModified: '2016-02-22T22:48:48.979Z'
+datePublished: '2016-02-22T22:58:43.623Z'
+dateModified: '2016-02-22T22:58:06.729Z'
 author: []
-title: "Welcome to my site here on the web.\_"
+title: "Hi, I'm Kenneth!\_"
 sourcePath: _posts/2016-02-22-welcome-to-my-site-here-on-the-web-here-ill-scare-stories.md
 published: true
 authors: []
@@ -23,7 +23,7 @@ _context: 'http://schema.org'
 _type: Article
 
 ---
-# Welcome to my site here on the web. 
+# Hi, I'm Kenneth! 
 
-# Here I'll scare stories from my humble life; dancing, friends and family and of course some great stuff in between...
+Welcome to my site created with \#thegrid.io. Here I'll share stories from my humble life; dancing, friends and family, stories and maybe some geeky stuff...
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8cb77d92-4730-4cd2-a4f3-8d262d0e7700.png)
