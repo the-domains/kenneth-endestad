@@ -4,21 +4,21 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'urn:uuid:86658081-7215-45c9-9dbe-8c3ad450ee3d'
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: Welcome
-datePublished: '2016-02-23T00:16:52.288Z'
-dateModified: '2016-02-23T00:16:27.077Z'
+datePublished: '2016-02-23T00:29:28.549Z'
+dateModified: '2016-02-23T00:17:01.769Z'
 author: []
 title: "Hi, I'm Kenneth!\_"
+sourcePath: _posts/2016-02-23-hi-im-kenneth.md
+published: true
 authors: []
 publisher:
   name: ''
   domain: ''
   url: null
   favicon: null
-sourcePath: _posts/2016-02-23-hi-im-kenneth.md
-published: true
 _context: 'http://schema.org'
 _type: Article
 
