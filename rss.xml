@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Kenneth.endestad.com]]></title>
+        <description><![CDATA[Kenneth.endestad.com]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 23 Feb 2016 00:16:54 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Hi, I'm Kenneth! ]]></title>
+            <description><![CDATA[<article><h1>Hi, I'm Kenneth! </h1><p>Welcome to my site created with #thegrid.io. Here I'm going to share stories from my life in Bergen; dancing, friends and family, stories and maybe some geeky stuff...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c01c73c7c3f525acc60f8555dbe091339750afa3.png"></article>]]></description>
+            <link>urn:uuid:86658081-7215-45c9-9dbe-8c3ad450ee3d</link>
+            <guid isPermaLink="false">9fb6ac3a-175c-40be-86c5-b72ff7e011c1</guid>
+            <pubDate>Tue, 23 Feb 2016 00:16:52 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
